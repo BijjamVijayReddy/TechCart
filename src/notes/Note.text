@@ -1,0 +1,18 @@
+
+// Dependencies
+1) npm install redux react-redux
+2) npm install axios
+3) npm install react-router-dom
+
+
+              Redux Life Cycle 
+
+ Action Creator   -->  Action   -->  Dispatch  -->  Reducers  --> Store.
+
+ You  --> Booking Form  --> SumbitForm  --> Ticket Counter --> Railyway Central Store.
+
+ 
+
+  // Redux DevTool Extension from Chrome
+
+  follow this Link for more information -- https://github.com/zalmoxisus/redux-devtools-extension 
